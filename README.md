@@ -1,2 +1,2 @@
 # Video-Classification
-This is a Project for Video Classification for Sports in Python for Artificial Intelligence Deep Learning 
+This is a Project for Video Classification for Sports in Python for Artificial Intelligence Deep Learning. So our aim is to develop our own video classifier and study different kind of sport. The idea is to detect frame by frame and predict so, we will need a bunch of images. This is a Deep learning project and we are going to use Resnet50 deep learning model as base model and we will change it over the head model and train upon it.
